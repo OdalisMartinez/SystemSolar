@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>JuegoSolarStatic</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>FFFFD2</corfondo>
+        <corbanda>CEF4FD</corbanda>
+        <cornavega>CEF4FD</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Sistema Solar</titulo>
+        <subtitulo>los planetas</subtitulo>
+        <autor>Odalys Martinez, Yulieth Gutierrez</autor>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Correcto</correcto>
+        <incorrecto son="" modo="1" >Erroneo</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>3.png</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[<br><p align="left"><br><font color="#000000" face="Arial" size="12"><br><br><br><br></font></p><br><p align="center"><br><font color="#080000" face="Arial" size="46">SISTEMA SOLAR<br><br>Odalis Martinez y Julieth Gutierrez <br></font></p><br>]]></texto>
+              <cfondo>0080C0</cfondo>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <texto posx="0" posy="-40" ancho="976" largo="759"><![CDATA[<font size="40"><br><h1 style="text-align: center;">Contenido</h1><br><br>    <div style="margin-top: 3px;"><br>        <h2 style="color: #2c3e50;">Tema 1: Introducción al Sistema Solar</h2><br>        <ol style="list-style-type: decimal; margin-left: 20px;"><br>            <li>Definición y concepto de sistema solar.</li><br>            <li>Historia de la exploración espacial.</li><br>            <li>Importancia del sistema solar en nuestra vida cotidiana.</li><br>        </ol><br>    </div><br><br>    <div style="margin-top: 3px;"><br>        <h2 style="color: #2c3e50;">Tema 2: El Sol y la Luna</h2><br>        <ol style="list-style-type: decimal; margin-left: 20px;"><br>            <li>Características del Sol (tamaño, temperatura, luminosidad).</li><br>            <li>Fases de la Luna (nueva, creciente, llena, menguante).</li><br>            <li>Influencia del Sol y la Luna en los ciclos naturales.</li><br>        </ol><br>    </div><br></font>]]></texto>
+              <cfondo>FFFFCC</cfondo>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="168" posy="243">5.png</imaxe>
+              <texto posx="7" posy="14" ancho="664" largo="221"><![CDATA[<br><p align="left"><br><font color="#080000" face="Arial" size="46">El Sistema Solar es el conjunto de cuerpos que giran alrededor del Sol. Está conformado por planetas, satélites, asteroides, cometas.<br><br></font></p><br>]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="189" posy="261">Sputnik-1_(1).jpg</imaxe>
+              <texto posx="0" posy="-2" ancho="584" largo="257"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="46">Históricamente, la exploración espacial comenzó con el lanzamiento del satélite artificial Sputnik por la Unión Soviética el 4 de octubre de 1957</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <texto posx="0" posy="-2" ancho="595" largo="220"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="46">La estrella calienta el agua de los mares; mantiene la atmósfera en movimiento; genera las estaciones del año a medida que la Tierra gira alrededor de él; y da energía a las plantas, proporcionando alimento para humanos y animales, así como el oxígeno necesario para respirar<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <imaxe posx="211" posy="273">day-and-night-concept-cute-sun-and-moon-characters-sun-on-blue-cloudy-sky-and-moon-on-dark-starry-space-background-astronomy-for-kids-vector_(1).jpg</imaxe>
+              <texto posx="0" posy="1" ancho="596" largo="265"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="46">Son cuerpos celestes compuestos por masas de gases que producen calor, luz, rayos ultravioletas, rayos X y otras formas de radiación</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <texto posx="0" posy="-4" ancho="991" largo="674"><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="46">CARACTERISTICAS DEL SOL<br>
+<br>
+</font><font color="#080000" face="Arial" size="32">Datos derivados de la observación terrestre<br>
+<br>
+</font></p>
+<p align="left">
+<font color="#080000" face="Arial" size="32"><li>Temperatura efectiva de la superficie	5778 K (5505 °C)</li>
+<li>Temperatura máxima de la corona	1-2×105 K​</li>
+<li>Temperatura del núcleo	~ 1,36 × 107 K</li>
+<li>Luminosidad (LS)	3,827 × 1026 W</li></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <texto posx="50" posy="50" ancho="200" largo="200"><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="32">CARACTERISTICAS DE LA LUNA<br>
+<br>
+</font></p>
+<p align="left">
+<font color="#080000" face="Arial" size="32">La Luna no posee atmósfera, por lo que su temperatura superficial media, varía entre +117°C en el día y -153°C en la noche.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <imaxe posx="67" posy="241">unnamed_(1).png</imaxe>
+              <texto posx="0" posy="-1" ancho="595" largo="242"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="46">Las fases de la Luna son los cambios que se observan en la parte de la Luna que está iluminada y que se pueden ver desde la Tierra.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="10" >
+              <tipo>17</tipo>
+              <pe>emparejar planetas#1</pe>
+              <parellas>Captura_de_pantalla_2024-10-31_144508.png</parellas>
+              <parellas>Captura_de_pantalla_2024-10-31_144537.png</parellas>
+              <parellas>Captura_de_pantalla_2024-10-31_144551.png</parellas>
+              <parellas>Captura_de_pantalla_2024-10-31_144611.png</parellas>
+              <parellas>Captura_de_pantalla_2024-10-31_144622.png</parellas>
+              <parellas>Captura_de_pantalla_2024-10-31_144709.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>60</tempo>
+        </paxina>
+        <paxina id="11" >
+              <tipo>4</tipo>
+              <pe>Sopa de letras#2</pe>
+              <modo>1</modo>
+              <sopa enun="estrella">Sol</sopa>
+              <sopa enun="rojo">Marte</sopa>
+              <sopa enun="anillos">Saturno</sopa>
+              <sopa enun="4 veces mas grande que la tierra">Urano</sopa>
+              <sopa enun="el mas alejado del sol">Neptuno</sopa>
+              <sopa enun="linea ecuatorial">Tierra</sopa>
+              <sopa enun="diosa del amor">Venus</sopa>
+              <sopa enun="el mas pequeño del sistema interior">Mercurio</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="12" >
+              <tipo>14</tipo>
+              <pe>asociar #3</pe>
+              <peza imaxe="" texto="planeta" son="">Captura_de_pantalla_2024-10-31_144551.png</peza>
+              <peza imaxe="" texto="estrella" son="">R.png</peza>
+              <peza imaxe="" texto="galaxia" son="">Andromeda-Galaxy_M31_003_2064.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="13" >
+              <tipo>3</tipo>
+              <pe>Rompecabezas solar#4</pe>
+              <imaxe>OSK.jpeg</imaxe>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>
